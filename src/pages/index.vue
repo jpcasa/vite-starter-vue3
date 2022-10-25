@@ -1,4 +1,7 @@
-<script setup></script>
+<script setup>
+import { useMeta } from 'vue-meta'
+useMeta({ title: 'Home' })
+</script>
 
 <template lang="pug">
 div
