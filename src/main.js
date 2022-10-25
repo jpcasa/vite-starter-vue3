@@ -7,6 +7,7 @@ import { createMetaManager } from 'vue-meta'
 import { createPinia } from 'pinia'
 
 import 'virtual:windi.css'
+import '~/assets/reset.css'
 import '~/assets/main.scss'
 
 import App from './App.vue'

@@ -1,4 +1,8 @@
-<script setup></script>
+<script setup>
+import { useMenusStore } from '~/stores/menus'
+
+const menusStore = useMenusStore()
+</script>
 
 <template lang="pug">
 div
