@@ -5,6 +5,7 @@ useMeta({ title: 'Home' })
 
 <template lang="pug">
 div
+  ExampleForm
   h1 Home
 </template>
 
